@@ -1,0 +1,33 @@
+.left {
+    /* border: 2px solid red; */
+    /* display: inline-block; */
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 20px;
+    /* padding: 23px 23px; */
+}
+
+.left img {
+    
+    height: 93px;
+    width: 102px;
+    display: block;
+    margin: 0px auto;
+    padding-bottom: 11px;
+}
+.center {
+    
+    display: block;
+    width: 53%;
+    margin: 20px auto;
+    
+}
+
+.right {
+    
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 31px;
+}
