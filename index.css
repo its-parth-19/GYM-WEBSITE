@@ -55,3 +55,18 @@ body {
     color: yellow;
     text-decoration: underline;
 }
+.navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+
+}
+
+.navbar li a {
+    color: rgb(201 35 157);
+    text-decoration: none;
+    padding: 34px 23px;
+    font-size: 25px;
+}
