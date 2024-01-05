@@ -43,3 +43,15 @@ body {
     width: 100vw;
     
 }
+*{
+    font-family: 'Carrois Gothic', sans-serif; 
+}
+.left div {
+    text-align: center;
+    line-height: 16.3px;
+}
+
+.name:hover {
+    color: yellow;
+    text-decoration: underline;
+}
