@@ -50,9 +50,12 @@ body {
     text-align: center;
     line-height: 16.3px;
 }
+.name{
+    color: red;
+}
 
 .name:hover {
-    color: yellow;
+    /* font-size: 12px; */
     text-decoration: underline;
 }
 .navbar {
@@ -65,8 +68,33 @@ body {
 }
 
 .navbar li a {
-    color: rgb(201 35 157);
+    color: rgb(6 144 175);
     text-decoration: none;
     padding: 34px 23px;
     font-size: 25px;
+}
+.navbar li a:hover {
+        text-decoration: underline;
+        
+        color: yellow;
+    }
+.btn {
+    font-family: 'Carrois Gothic', sans-serif;
+    
+    border: 2px solid #9b5f5f;
+    color: white;
+    background-color: #8d7373;
+
+    margin: 0px 12px;
+    padding: 6px 7px;
+    border-radius: 11px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.btn:hover {
+    
+    text-decoration: underline;
+    
+    
+
 }
