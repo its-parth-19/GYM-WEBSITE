@@ -70,7 +70,7 @@ body {
 .navbar li a {
     color: rgb(6 144 175);
     text-decoration: none;
-    padding: 34px 23px;
+    padding: 20px 22px;
     font-size: 25px;
 }
 .navbar li a:hover {
@@ -94,7 +94,13 @@ body {
 .btn:hover {
     
     text-decoration: underline;
-    
-    
-
+}
+.container {
+    border: 2px solid yellow;
+    /* margin: 2px 2px; */
+    margin: 146px 696px;
+    padding: 27px 31px;
+    display: block;
+    width: 34%;
+    border-radius: 16px;
 }
