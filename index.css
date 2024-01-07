@@ -104,3 +104,11 @@ body {
     width: 34%;
     border-radius: 16px;
 }
+h2 {
+    text-align: center;
+}
+
+h2:hover {
+    text-decoration: underline;
+    color: rgb(21 219 219);
+}
