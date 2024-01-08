@@ -94,6 +94,7 @@ body {
 .btn:hover {
     
     text-decoration: underline;
+    
 }
 .container {
     border: 2px solid yellow;
@@ -111,4 +112,14 @@ h2 {
 h2:hover {
     text-decoration: underline;
     color: rgb(21 219 219);
+    cursor: pointer;
+}
+.formgroup input {
+    border-radius: 12px;
+    text-align: center;
+    margin: 13px auto;
+    display: block;
+    padding: 5px;
+    width: 247px;
+    font-size: 15px;
 }
