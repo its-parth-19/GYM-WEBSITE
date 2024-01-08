@@ -51,7 +51,9 @@ body {
     line-height: 16.3px;
 }
 .name{
-    color: red;
+    /* color: red; */
+    color: #13a194;
+    font-size: 19px;
 }
 
 .name:hover {
@@ -111,7 +113,7 @@ h2 {
 
 h2:hover {
     text-decoration: underline;
-    color: rgb(21 219 219);
+    color: purple;
     cursor: pointer;
 }
 .formgroup input {
