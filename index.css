@@ -131,4 +131,12 @@ button.sub {
     margin: 36px auto;
     width: 250px;
     padding: 4px;
+    border-radius: 11px;
+}
+.sub:hover {
+    color: red;
+    
+    font-size: 15px;
+    text-decoration: underline;
+    
 }
