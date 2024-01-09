@@ -16,6 +16,7 @@
     margin: 0px auto;
     padding-bottom: 11px;
 }
+
 .center {
     
     display: block;
@@ -124,4 +125,10 @@ h2:hover {
     padding: 5px;
     width: 247px;
     font-size: 15px;
+}
+button.sub {
+    display: block;
+    margin: 36px auto;
+    width: 250px;
+    padding: 4px;
 }
