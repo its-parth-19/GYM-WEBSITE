@@ -140,3 +140,16 @@ button.sub {
     text-decoration: underline;
     
 }
+.submit{
+    text-decoration: none;
+    display: block;
+        margin: 15px auto;
+        width: 254px;
+        padding: 3px;
+        border: 2px solid red;
+        color: green;
+        text-align: center;
+        /* font-size: 20px; */
+}
+
+
