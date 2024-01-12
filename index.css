@@ -55,6 +55,7 @@ body {
     /* color: red; */
     color: #13a194;
     font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .name:hover {
@@ -110,6 +111,7 @@ body {
 }
 h2 {
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2:hover {
@@ -150,6 +152,8 @@ button.sub {
         color: green;
         text-align: center;
         font-size: 18px;
+        
+        font-family: serif;
 }
 .submit:hover{
     text-decoration: underline;
